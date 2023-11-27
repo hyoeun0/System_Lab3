@@ -1,0 +1,8 @@
+[Mon Nov 27 04:59:08 2023] P1: /s
+[Mon Nov 27 04:59:08 2023] P1: hello
+[Mon Nov 27 04:59:08 2023] P1: Nice to meet you
+[Mon Nov 27 04:59:08 2023] P1: /q
+[Mon Nov 27 04:59:14 2023] P2: hi~
+[Mon Nov 27 04:59:49 2023] P2: Nice to meet you too
+[Mon Nov 27 04:59:52 2023] P2: ^^
+[Mon Nov 27 04:59:55 2023] P2: /q
